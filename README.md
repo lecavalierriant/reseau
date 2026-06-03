@@ -1,7 +1,7 @@
 **Réseau**
 
-*© 2025 — Train Guy 53*
+*𝔏𝔢 ℭ𝔞𝔳𝔞𝔩𝔦𝔢𝔯 ℜ𝔦𝔞𝔫𝔱*
 
 Une présentation de mon réseau de train miniature.
 
-Lien : https://trainguy53.github.io/reseau
+Lien : https://lecavalierriant.github.io/reseau
