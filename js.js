@@ -1,11 +1,11 @@
 const titrePageParent = window.parent.document.title;
 const pages = {
-	"Accueil — Train Guy 53": "index.html",
-	"Locomotives — Train Guy 53": "locomotives.html",
-	"Voitures — Train Guy 53": "voitures.html",
-	"Wagons — Train Guy 53": "wagons.html",
-	"Maquettes — Train Guy 53": "maquettes.html",
-	"Rails — Train Guy 53": "rails.html"
+	"Accueil": "index.html",
+	"Locomotives": "locomotives.html",
+	"Voitures": "voitures.html",
+	"Wagons": "wagons.html",
+	"Maquettes": "maquettes.html",
+	"Rails": "rails.html"
 };
 
 function cacherImagesInternet() {
