@@ -16,6 +16,6 @@ function cacherImagesInternet() {
 function basculerImages() {
 	const imgInternet = document.querySelectorAll(".img-internet");
 	const imgRéseau = document.querySelectorAll(".img-réseau");
-	imgRéseau.forEach(img => img.style.display = img.style.display === "none" ? "block" : "none");
-	imgInternet.forEach(img => img.style.display = img.style.display === "none" ? "block" : "none");
+	imgRéseau.forEach(img => img.style.display = img.style.display == "none" ? "block" : "none");
+	imgInternet.forEach(img => img.style.display = img.style.display == "none" ? "block" : "none");
 }
