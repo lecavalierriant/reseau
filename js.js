@@ -9,13 +9,13 @@ const pages = {
 };
 
 function cacherImagesInternet() {
-	const imgInternet = document.querySelectorAll(".img-internet");
+	const imgInternet = document.querySelectorAll(".internet");
 	imgInternet.forEach(img => img.style.display = "none");
 }
 
 function basculerImages() {
-	const imgInternet = document.querySelectorAll(".img-internet");
-	const imgRéseau = document.querySelectorAll(".img-réseau");
+	const imgInternet = document.querySelectorAll(".internet");
+	const imgRéseau = document.querySelectorAll(".réseau");
 	imgRéseau.forEach(img => img.style.display = img.style.display == "none" ? "block" : "none");
 	imgInternet.forEach(img => img.style.display = img.style.display == "none" ? "block" : "none");
 }
