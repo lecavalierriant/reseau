@@ -27,7 +27,7 @@ button:hover {cursor: pointer;}
 div {position: relative;}
 .nav {padding-bottom: 50%;}
 #colones {column-count: 2;}
-#circuits:hover #img-circuit-détaillé {display: block;}
+#circuits:hover #circuit-détaillé {display: block;}
 #tgv {
 	width: 80%;
 	left: -30%;
@@ -61,29 +61,30 @@ img {
 	border-top-left-radius: 20px;
 	border-bottom-left-radius: 20px;
 }
-.img-circuit,
-.img-section,
-#img-tgv {filter: drop-shadow(0 0);}
-.img-fond,
-.img-section {
+.circuit,
+.section,
+#tgv-gif {filter: drop-shadow(0 0);}
+.fond,
+.section {
 	position: absolute;
 	left: 0;
 }
-.img-compagnie {width: 50%;}
-.img-réseaux-sociaux {width: 25%;}
-#img-tgv,
-#img-tgv-fond {
+.compagnie {width: 50%;}
+#tgv-gif,
+#tgv-fond {
 	border-radius: 15px;
 	position: absolute;
 }
-#img-logo {width: 50%;}
-#img-temps {
+#logo {width: 50%;}
+#temps {
 	width: 50%;
 	box-shadow: 3px 3px 3px #000000;
 	border-radius: 25px;
 	display: block;
 	margin: auto;
 }
+#circuit-détaillé,
+#circuits:hover #circuit-simple {display: none;}
 
 li {
 	float: left;
@@ -139,10 +140,5 @@ th {
 	box-shadow: 1px 1px 1px #000000;
 	background-color: #4974a5;
 }
-#table-réseaux-sociaux th {background-color: transparent;}
 
 ul {list-style-type: none;}
-
-
-#img-circuit-détaillé,
-#circuits:hover #circuit-simple {display: none;}
