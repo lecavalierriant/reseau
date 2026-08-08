@@ -135,7 +135,7 @@ td {
 }
 
 th {
-	border: 2px #4974a5 outset;
+	border: 2px #4974a5 solid;
 	border-radius: 15px;
 	box-shadow: 1px 1px 1px #000000;
 	background-color: #4974a5;
