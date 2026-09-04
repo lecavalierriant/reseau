@@ -1,13 +1,3 @@
-const titrePageParent = window.parent.document.title;
-const pages = {
-	"Accueil": "index.html",
-	"Locomotives": "locomotives.html",
-	"Voitures": "voitures.html",
-	"Wagons": "wagons.html",
-	"Maquettes": "maquettes.html",
-	"Rails": "rails.html"
-};
-
 function cacherImagesInternet() {
 	const imgInternet = document.querySelectorAll(".internet");
 	imgInternet.forEach(img => img.style.display = "none");
