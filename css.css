@@ -8,9 +8,9 @@ a:hover {color: #7a49a5;}
 body {
 	text-shadow: 1px 1px 1px #ffffff;
 	font-family: cambria;
-	font-size: 200%;
 	text-align: center;
 	background: #303841 url("commun/rail.png") repeat-y left top;
+	font-size: 150%;
 }
 
 button {
