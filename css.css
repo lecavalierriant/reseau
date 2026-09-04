@@ -15,7 +15,6 @@ button {
 	font-size: 125%;
 	border-radius: 20px;
 }
-button:hover {cursor: pointer;}
 
 div {position: relative;}
 .nav {padding-bottom: 50%;}
