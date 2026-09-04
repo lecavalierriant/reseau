@@ -28,8 +28,6 @@ div {position: relative;}
 }
 
 iframe {
-	border: 0;
-	width: 100%;
 	position: sticky;
 	top: 0;
 	aspect-ratio: 110 / 10;
