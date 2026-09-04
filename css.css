@@ -97,11 +97,11 @@ td {
 	border-radius: 15px;
 	box-shadow: 1px 1px 1px #000000;
 }
-.td-image {
 	border: 0;
 	box-shadow: 0 0;
 }
 .td-sans-bords {
+.image {
 	border: 0;
 	box-shadow: 0 0;
 }
