@@ -6,14 +6,12 @@ a {
 a:hover {color: #7a49a5;}
 
 body {
-	text-shadow: 1px 1px 1px #ffffff;
 	background: #303841 url("commun/rail.png") repeat-y left top;
 	font-size: 150%;
 }
 
 button {
 	background-color: #4974a5;
-	text-shadow: 1px 1px 1px #ffffff;
 	font-size: 125%;
 	border-radius: 20px;
 }
@@ -29,8 +27,6 @@ div {position: relative;}
 	padding-bottom: 10%;
 	border-radius: 25px;
 }
-
-h1 {text-shadow: 2px 2px 2px #ffffff;}
 
 iframe {
 	border: 0;
