@@ -39,6 +39,7 @@ iframe {
 img {
 	width: 100%;
 	filter: drop-shadow(3px 3px 1px #000000);
+	border-radius: 0;
 }
 #droite img {
 	border-top-right-radius: 20px;
