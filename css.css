@@ -1,10 +1,3 @@
-a {
-	color: #000000;
-	font-style: italic;
-	text-decoration: none;
-}
-a:hover {color: #7a49a5;}
-
 body {
 	background: #303841 url("commun/rail.png") repeat-y left top;
 	font-size: 150%;
@@ -81,14 +74,6 @@ li {
 nav {
 	font-size: 50%;
 	margin-top: -5%;
-}
-
-p {
-	background-color: #bbbbbb;
-	border: 3px #4974a5 outset;
-	border-radius: 20px;
-	box-shadow: 3px 3px 3px #000000;
-	padding: 1%;
 }
 
 span {padding-right: 4%;}
