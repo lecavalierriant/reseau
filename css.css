@@ -14,9 +14,7 @@ body {
 button {
 	background-color: #4974a5;
 	text-shadow: 1px 1px 1px #ffffff;
-	font-family: cambria;
 	font-size: 125%;
-	text-align: center;
 	border-radius: 20px;
 }
 button:hover {cursor: pointer;}
