@@ -96,11 +96,9 @@ td {
 	border: 1px #4974a5 outset;
 	border-radius: 15px;
 	box-shadow: 1px 1px 1px #000000;
-}
 	border: 0;
 	box-shadow: 0 0;
 }
-.td-sans-bords {
 .image {
 	border: 0;
 	box-shadow: 0 0;
