@@ -80,12 +80,7 @@ span {padding-right: 4%;}
 
 table {
 	background-color: #5a8787;
-	border: 3px #4974a5 outset;
 	border-radius: 20px;
-	font-size: 80%;
-	box-shadow: 3px 3px 3px #000000;
-	width: 100%;
-}
 #table-réseaux-sociaux {
 	border: 0;
 	background-color: transparent;
