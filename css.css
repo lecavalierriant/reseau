@@ -30,12 +30,12 @@ img {
 }
 .navigation img {border-radius: 0}
 #droite img {
-	border-top-right-radius: 20px;
-	border-bottom-right-radius: 20px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
 }
 #gauche img {
-	border-top-left-radius: 20px;
-	border-bottom-left-radius: 20px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
 }
 .circuit,
 .section,
