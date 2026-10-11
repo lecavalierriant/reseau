@@ -1,11 +1,11 @@
 function cacherImagesInternet() {
-	const imgInternet = document.querySelectorAll(".internet");
+	imgInternet = document.querySelectorAll(".internet");
 	imgInternet.forEach(img => img.style.display = "none");
 }
 
 function basculerImages() {
-	const imgInternet = document.querySelectorAll(".internet");
-	const imgRéseau = document.querySelectorAll(".réseau");
+	imgInternet = document.querySelectorAll(".internet");
+	imgRéseau = document.querySelectorAll(".réseau");
 	imgRéseau.forEach(img => img.style.display = img.style.display == "none" ? "block" : "none");
 	imgInternet.forEach(img => img.style.display = img.style.display == "none" ? "block" : "none");
 }
